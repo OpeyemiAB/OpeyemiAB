@@ -1,4 +1,4 @@
-# Hello, I'm Opeyemi 👋
+# Hello, I'm Opeyemi Benjamin 👋
 
 <p align="left">
 <a href="https://www.linkedin.com/in/opeyemi-benjamin-99ba70250" target="_blank">
@@ -6,34 +6,35 @@
 </a>
 </p>
 
-### 🛡️ Cybersecurity Analyst | Network Infrastructure Specialist
-I am a Computer Science student bridging the gap between **Secure Network Infrastructure** and **Security Operations (SOC)**. My focus is on building resilient systems and transitioning into a SOC Analyst role, with a long-term interest in becoming a Smart Contract Guardian for decentralized systems.
+### 🛡️ Cybersecurity Analyst | SOC Specialist 
+I am a Computer Science finalist at Lagos State University, specializing in **Security Operations (SOC)** and **Network Infrastructure**. I bridge the gap between building resilient networks and defending them against evolving threats.
 
-- 🔍 **Currently seeking:** IT / SIWES Internship opportunities.
-- 🛠️ **Focusing on:** Network Defense, SIEM Implementation, and Incident Response.
-- 💡 **Philosophy:** Building security from the ground up—starting with a robust network foundation.
+- 🎓 **Academic:** Final Year Computer Science Student at LASU.
+- 🛠️ **Current Project:** Developing an Integrated Cybersecurity Threat Management System (Phishing Simulator & SOC Dashboard).
+- 💡 **Philosophy:** Security isn't just a layer; it’s a foundation built from the packet level up.
+- 🇫🇷 **Personal:** Currently learning French to expand my professional reach.
 
 ---
 
-### 🚀 Technical Skills & Projects
-| Skill | Featured Project |
+### 🚀 Featured Projects
+| Project | Focus |
 | :--- | :--- |
-| **SIEM & Log Analysis** | [Detection Lab](https://github.com/YOUR_USERNAME/detection-lab) |
-| **Network Traffic Monitoring** | [Network Security Lab](https://github.com/YOUR_USERNAME/network-lab) |
-| **Security Automation** | [SOC Automation (Shuffle/TheHive)](https://github.com/YOUR_USERNAME/soc-automation) |
-| **Incident Response** | [Case Management Project](https://github.com/YOUR_USERNAME/incident-response) |
+| **[Threat Management System](https://github.com/YOUR_GITHUB_USERNAME/threat-management)** | Integrated Phishing Simulator & SOC Dashboard |
+| **[Network Security Lab](https://github.com/YOUR_GITHUB_USERNAME/network-lab)** | Secure infrastructure design and traffic analysis |
+| **[SOC Automation](https://github.com/YOUR_GITHUB_USERNAME/soc-automation)** | Workflow orchestration using Shuffle and TheHive |
+| **[Detection Lab](https://github.com/YOUR_GITHUB_USERNAME/detection-lab)** | SIEM implementation and log analysis (Splunk/Sentinel) |
 
 ---
 
 ### 🛠️ Tool Stack
 
-#### 🌐 Network & Endpoint
-![Wireshark](https://img.shields.io/badge/-Wireshark-1679A7?style=flat&logo=Wireshark&logoColor=white)
+#### 🌐 Network & Endpoint Defense
 ![Cisco](https://img.shields.io/badge/-Cisco_Packet_Tracer-00b4d8?style=flat&logo=cisco&logoColor=white)
+![Wireshark](https://img.shields.io/badge/-Wireshark-1679A7?style=flat&logo=Wireshark&logoColor=white)
 ![Suricata](https://img.shields.io/badge/-Suricata-EF3B2D?style=flat&logo=Suricata&logoColor=white)
 ![Microsoft Defender](https://img.shields.io/badge/-Defender_for_Endpoint-00A4EF?style=flat&logo=Microsoft&logoColor=white)
 
-#### 📊 SIEM & Operations
+#### 📊 SIEM & Security Operations
 ![Splunk](https://img.shields.io/badge/-Splunk-000000?style=flat&logo=Splunk&logoColor=white)
 ![Microsoft Sentinel](https://img.shields.io/badge/-Microsoft_Sentinel-0078D4?style=flat&logo=Microsoft&logoColor=white)
 ![Elastic](https://img.shields.io/badge/-Elastic_Stack-005571?style=flat&logo=Elastic&logoColor=white)
@@ -41,17 +42,17 @@ I am a Computer Science student bridging the gap between **Secure Network Infras
 
 ---
 
-### 📜 Certifications
+### 📜 Certifications & Learning Path
+* **Cisco:** Junior Cybersecurity Analyst Career Path (Endpoint Security, Network Defense, Cyber Threat Management)
 * **Google:** Cybersecurity Professional Certificate
-* **Cisco:** Network Technician Career Path | Network Defense | Networking Basics
-* **CompTIA:** Network+ (In Progress)
+* **CompTIA:** Network+ (Currently Pursuing)
 * **Specialized:** CDSA (Certified Digital Forensics & Security Analyst) | CCD
 
 ---
 
 ### 📈 GitHub Stats
 <p align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical" alt="GitHub Stats" />
+<img src="https://github-readme-stats.vercel.app/api?username=OpeyemiAB&show_icons=true&theme=radical" alt="GitHub Stats" />
 </p>
 
 ---
