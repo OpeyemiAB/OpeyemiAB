@@ -27,28 +27,28 @@
 
 ---
 
-### ð¡ï¸ About Me
+### :shield: About Me
 
 I am a **Computer Science** undergraduate student at **Lagos State University (LASU)** and an **Aspiring SOC Analyst & Threat Detection Engineer**. My technical background focuses on **Security Operations (SOC)**, **SIEM log engineering**, **endpoint telemetry (Sysmon/EDR)**, and **automated incident containment**.
 
 Beyond engineering, I am honored to be selected as a **Millennium Fellow (Class of 2026)** by the **Millennium Campus Network (MCN)** and the **United Nations Academic Impact (UNAI)**, leading student initiatives in technology access and digital governance.
 
-- ð­ **Current Focus:** Engineering high-fidelity detection rules in Wazuh SIEM, tuning Sysmon telemetry, and evaluating enterprise postures against **NIST CSF & ISO 27001**.
-- ð **Global Fellowship:** **Millennium Fellow (Class of 2026)** â Millennium Campus Network (MCN) & United Nations Academic Impact (UNAI).
-- ð¼ **Hands-On Experience:**
-  - **Cyber Core Associate Intern** at **Ubuntu Bridge Initiative (UBI) Cohort 01** â Investigated network breach simulations, modeled XSS/SQLi attack vectors, and performed risk governance audits.
-  - **SIWES Intern** at **LASUED** â Campus IT infrastructure maintenance, network monitoring & workflow digitalization.
-- ð **Education:** B.Sc. Computer Science, Lagos State University (LASU).
-- ð **Key Certifications:** Google Cybersecurity Professional Certificate, Google IT Support, Cisco Junior Cybersecurity Analyst & Network Technician paths.
+- :telescope: **Current Focus:** Engineering high-fidelity detection rules in Wazuh SIEM, tuning Sysmon telemetry, and evaluating enterprise postures against **NIST CSF & ISO 27001**.
+- :star2: **Global Fellowship:** **Millennium Fellow (Class of 2026)** -- Millennium Campus Network (MCN) & United Nations Academic Impact (UNAI).
+- :briefcase: **Hands-On Experience:**
+  - **Cyber Core Associate Intern** at **Ubuntu Bridge Initiative (UBI) Cohort 01** -- Investigated network breach simulations, modeled XSS/SQLi attack vectors, and performed risk governance audits.
+  - **SIWES Intern** at **LASUED** -- Campus IT infrastructure maintenance, network monitoring & workflow digitalization.
+- :mortar_board: **Education:** B.Sc. Computer Science, Lagos State University (LASU).
+- :scroll: **Key Certifications:** (ISC)2 Certified in Cybersecurity (CC), Google Cybersecurity Professional Certificate, Google IT Support, Cisco Junior Cybersecurity Analyst & Network Technician paths.
 
 ---
 
-### ð Featured Cybersecurity Projects
+### :rocket: Featured Cybersecurity Projects
 
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h4><a href="https://github.com/OpeyemiAB/SOC-Lab-Wazuh-Defense">ð¡ï¸ SOC Lab: Wazuh SIEM & Active Response Defense</a></h4>
+      <h4><a href="https://github.com/OpeyemiAB/SOC-Lab-Wazuh-Defense">:shield: SOC Lab: Wazuh SIEM & Active Response Defense</a></h4>
       <p>Architected a complete Security Operations Center environment featuring Wazuh Manager on Ubuntu Server, Windows 11 monitored endpoint, and Kali Linux attacker node.</p>
       <ul>
         <li><b>Sysmon Telemetry:</b> Custom XML rules capturing Event ID 1 (Process Creation) & Event ID 11 (File Drops).</li>
@@ -62,7 +62,7 @@ Beyond engineering, I am honored to be selected as a **Millennium Fellow (Class 
       </p>
     </td>
     <td width="50%" valign="top">
-      <h4><a href="https://github.com/OpeyemiAB/naija-cybershield">ð Go2Cyber Naija CyberShield</a></h4>
+      <h4><a href="https://github.com/OpeyemiAB/naija-cybershield">:globe_with_meridians: Go2Cyber Naija CyberShield</a></h4>
       <p>Public Cybersecurity Resource Hub & Interactive Bank Scam Simulator built for the GCAP Cohort 1 Capstone Project.</p>
       <ul>
         <li><b>Scam Simulation:</b> Interactive real-world financial scam and phishing vectors targeting local banking users.</li>
@@ -78,7 +78,7 @@ Beyond engineering, I am honored to be selected as a **Millennium Fellow (Class 
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h4><a href="https://github.com/OpeyemiAB/OpeyemiAB.github.io">ð» Live Interactive SOC Portfolio Website</a></h4>
+      <h4><a href="https://github.com/OpeyemiAB/OpeyemiAB.github.io">:computer: Live Interactive SOC Portfolio Website</a></h4>
       <p>Custom-engineered, high-performance portfolio showcasing lab writeups, credentials, and interactive galleries.</p>
       <ul>
         <li><b>Live Deployment:</b> Hosted on GitHub Pages at <a href="https://opeyemiab.github.io">opeyemiab.github.io</a>.</li>
@@ -92,7 +92,7 @@ Beyond engineering, I am honored to be selected as a **Millennium Fellow (Class 
       </p>
     </td>
     <td width="50%" valign="top">
-      <h4><a href="https://github.com/OpeyemiAB">ð SIWES Document Tracking System (DBMS)</a></h4>
+      <h4><a href="https://github.com/OpeyemiAB">:bar_chart: SIWES Document Tracking System (DBMS)</a></h4>
       <p>Relational database management solution engineered for the LASUED SIWES administrative unit.</p>
       <ul>
         <li><b>Architecture:</b> Normalized MySQL schema managing student logbooks, supervisor assignments, and submissions.</li>
@@ -110,12 +110,12 @@ Beyond engineering, I am honored to be selected as a **Millennium Fellow (Class 
 
 ---
 
-### ð ï¸ Security Arsenal & Technical Stack
+### :hammer_and_wrench: Security Arsenal & Technical Stack
 
 <table width="100%">
   <tr>
     <td width="25%" valign="top">
-      <b>ð SIEM & EDR</b><br><br>
+      <b>:mag: SIEM & EDR</b><br><br>
       <img src="https://img.shields.io/badge/Wazuh_SIEM-002F43?style=flat-square&logo=wazuh&logoColor=white" /><br>
       <img src="https://img.shields.io/badge/Microsoft_Sysmon-0078D4?style=flat-square&logo=windows&logoColor=white" /><br>
       <img src="https://img.shields.io/badge/Splunk-000000?style=flat-square&logo=splunk&logoColor=white" /><br>
@@ -124,7 +124,7 @@ Beyond engineering, I am honored to be selected as a **Millennium Fellow (Class 
       <img src="https://img.shields.io/badge/TheHive_SOAR-F39C12?style=flat-square" />
     </td>
     <td width="25%" valign="top">
-      <b>ð Network Defense</b><br><br>
+      <b>:globe_with_meridians: Network Defense</b><br><br>
       <img src="https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white" /><br>
       <img src="https://img.shields.io/badge/Suricata_IDS-EF3B2D?style=flat-square&logo=suricata&logoColor=white" /><br>
       <img src="https://img.shields.io/badge/Cisco_Packet_Tracer-00B4D8?style=flat-square&logo=cisco&logoColor=white" /><br>
@@ -133,7 +133,7 @@ Beyond engineering, I am honored to be selected as a **Millennium Fellow (Class 
       <img src="https://img.shields.io/badge/Firewalls_%26_ACLs-E67E22?style=flat-square" />
     </td>
     <td width="25%" valign="top">
-      <b>ð Frameworks & Standards</b><br><br>
+      <b>:scroll: Frameworks & Standards</b><br><br>
       <img src="https://img.shields.io/badge/NIST_CSF-0B3C5D?style=flat-square" /><br>
       <img src="https://img.shields.io/badge/ISO_27001-1D2731?style=flat-square" /><br>
       <img src="https://img.shields.io/badge/MITRE_ATT%26CK-C0392B?style=flat-square" /><br>
@@ -142,7 +142,7 @@ Beyond engineering, I am honored to be selected as a **Millennium Fellow (Class 
       <img src="https://img.shields.io/badge/Incident_Response-E67E22?style=flat-square" />
     </td>
     <td width="25%" valign="top">
-      <b>âï¸ Scripting & Systems</b><br><br>
+      <b>:gear: Scripting & Systems</b><br><br>
       <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" /><br>
       <img src="https://img.shields.io/badge/Bash_Shell-4EAA25?style=flat-square&logo=gnubash&logoColor=white" /><br>
       <img src="https://img.shields.io/badge/PowerShell-5391FE?style=flat-square&logo=powershell&logoColor=white" /><br>
@@ -155,28 +155,28 @@ Beyond engineering, I am honored to be selected as a **Millennium Fellow (Class 
 
 ---
 
-### ð Leadership & Global Impact
+### :star2: Leadership & Global Impact
 
-- ð **Millennium Fellow (Class of 2026)** â **Millennium Campus Network (MCN) & United Nations Academic Impact (UNAI)**
+- :earth_africa: **Millennium Fellow (Class of 2026)** -- **Millennium Campus Network (MCN) & United Nations Academic Impact (UNAI)**
   *Selected for a prestigious global fellowship; leading student initiatives advancing digital access and ethical governance.*
-- ð¤ **Assistant Team Lead (Registration & Operations)** â **Tech Wave LASU** (Nov 2026)
+- :handshake: **Assistant Team Lead (Registration & Operations)** -- **Tech Wave LASU** (Nov 2026)
   *Led check-in operations and delegate onboarding workflows for major conference attendees.*
 
 ---
 
-### ð Certifications & Credentials
+### :scroll: Certifications & Credentials
 
-- ð¥ **Google Cybersecurity Professional Certificate** â Coursera (8-Course Specialization &bull; [Verify Credly](https://www.credly.com/go/K0c34x94))
-- ð **Google Network Security Specialization** â Deep dive into firewalls, intrusion detection & hardening
-- ð» **Google IT Support Professional Specialization** â System administration, hardware & OS debugging
-- ð¡ï¸ **Cisco Junior Cybersecurity Analyst Career Path** â Cisco Networking Academy
-- ð **Cisco Network Technician Career Path** â Cisco Networking Academy
-- ð **(ISC)Â² Candidate â Certified in Cybersecurity (CC) Modules** (Security Principles, Incident Response, Access Control, Security Operations)
-- ð **Computer Networks Fundamentals** â Udemy
+- :shield: **(ISC)2 Certified in Cybersecurity (CC)** -- Full Certification & 5 Specialized Domains
+- :first_place_medal: **Google Cybersecurity Professional Certificate** -- Coursera (8-Course Specialization &bull; [Verify Credly](https://www.credly.com/go/K0c34x94))
+- :globe_with_meridians: **Google Network Security Specialization** -- Deep dive into firewalls, intrusion detection & hardening
+- :computer: **Google IT Support Professional Specialization** -- System administration, hardware & OS debugging
+- :shield: **Cisco Junior Cybersecurity Analyst Career Path** -- Cisco Networking Academy
+- :electric_plug: **Cisco Network Technician Career Path** -- Cisco Networking Academy
+- :books: **Computer Networks Fundamentals** -- Udemy
 
 ---
 
-### ð GitHub Analytics
+### :chart_with_upwards_trend: GitHub Analytics
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=OpeyemiAB&show_icons=true&theme=tokyonight&hide_border=true&title_color=00F0FF&icon_color=00F0FF&text_color=94a3b8&bg_color=0d1117" alt="Benjamin's GitHub Stats" height="155" />
