@@ -110,7 +110,7 @@ Beyond engineering, I am honored to be selected as a **Millennium Fellow (Class 
 
 ---
 
-### :hammer_and_wrench: Security Arsenal & Technical Stack
+### :hammer_and_wrench: Security Stack & Technical Skills
 
 <table width="100%">
   <tr>
