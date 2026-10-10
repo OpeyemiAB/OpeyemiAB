@@ -1,11 +1,11 @@
-﻿<div align="center">
+<div align="center">
 
 <!-- Banner Header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,24&height=180&section=header&text=Benjamin%20Opeyemi%20Abraham&fontSize=38&fontColor=ffffff&animation=fadeIn&subtext=SOC%20Analyst%20%7C%20Threat%20Detection%20Engineer%20%7C%20Blue%20Team%20Defender&subfontSize=16&subfontColor=00F0FF" width="100%" alt="Header Banner" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,24&height=185&section=header&text=Benjamin%20Opeyemi%20Abraham&fontSize=38&fontColor=ffffff&animation=fadeIn&subtext=SOC%20Analyst%20%7C%20Threat%20Detection%20Engineer%20%7C%20Millennium%20Fellow%20%28MCN%20%26%20UNAI%29&subfontSize=15&subfontColor=00F0FF" width="100%" alt="Header Banner" />
 
 <!-- Dynamic Typing SVG -->
 <a href="https://github.com/OpeyemiAB">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2800&pause=1000&color=00F0FF&center=true&vCenter=true&width=620&lines=Aspiring+SOC+Analyst+%7C+Incident+Response;Wazuh+SIEM+%2B+Sysmon+Detection+Engineering;MITRE+ATT%26CK+Mapping+%2B+Threat+Hunting;Network+Traffic+Analysis+%2B+Packet+Inspection;B.Sc.+Computer+Science+%40+Lagos+State+University" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&duration=2800&pause=1000&color=00F0FF&center=true&vCenter=true&width=650&lines=Aspiring+SOC+Analyst+%7C+Incident+Response;Millennium+Fellow+(Class+of+2026)+%40+MCN+%26+UNAI;Wazuh+SIEM+%2B+Sysmon+Detection+Engineering;NIST+CSF+%2B+ISO+27001+Risk+Posture+Evaluation;Network+Traffic+Analysis+%2B+Packet+Inspection;B.Sc.+Computer+Science+%40+Lagos+State+University" alt="Typing SVG" />
 </a>
 
 <p align="center">
@@ -27,27 +27,28 @@
 
 ---
 
-### 🛡️ About Me
+### ??? About Me
 
-I am a final-year **Computer Science** student at **Lagos State University (LASU)** and an **Aspiring SOC Analyst & Detection Engineer**. My technical background centers on **Security Operations (SOC)**, **SIEM log analysis**, **endpoint telemetry (Sysmon/EDR)**, and **automated incident response**.
+I am a **Computer Science** undergraduate student at **Lagos State University (LASU)** and an **Aspiring SOC Analyst & Threat Detection Engineer**. My technical background focuses on **Security Operations (SOC)**, **SIEM log engineering**, **endpoint telemetry (Sysmon/EDR)**, and **automated incident containment**.
 
-I specialize in bridging the gap between designing resilient network architectures and defending enterprise environments against evolving threats across the cyber kill chain.
+Beyond engineering, I am honored to be selected as a **Millennium Fellow (Class of 2026)** by the **Millennium Campus Network (MCN)** and the **United Nations Academic Impact (UNAI)**, leading student initiatives in technology access and digital governance.
 
-- 🔭 **Current Focus:** Engineering high-fidelity detection rules in Wazuh SIEM, tuning Sysmon telemetry, and orchestrating automated active defense.
-- 🎯 **Core Competencies:** SIEM Architecture, Process Injection & UAC Bypass Detection, Network Traffic Analysis, MITRE ATT&CK Mapping.
-- 💼 **Hands-On Experience:** SIWES Intern at **LASUED** (IT Infrastructure, Network Monitoring & Process Digitization).
-- 🎓 **Education:** B.Sc. Computer Science, Lagos State University (LASU).
-- 📜 **Key Certifications:** Google Cybersecurity Professional Certificate (8-course specialization), Cisco Junior Cybersecurity Analyst Path.
-- 🌐 **Personal:** Multilingual explorer (learning French) and tech continuous learner.
+- ?? **Current Focus:** Engineering high-fidelity detection rules in Wazuh SIEM, tuning Sysmon telemetry, and evaluating enterprise postures against **NIST CSF & ISO 27001**.
+- ?? **Global Fellowship:** **Millennium Fellow (Class of 2026)** ? Millennium Campus Network (MCN) & United Nations Academic Impact (UNAI).
+- ?? **Hands-On Experience:**
+  - **Cyber Core Associate Intern** at **Ubuntu Bridge Initiative (UBI) Cohort 01** ? Investigated network breach simulations, modeled XSS/SQLi attack vectors, and performed risk governance audits.
+  - **SIWES Intern** at **LASUED** ? Campus IT infrastructure maintenance, network monitoring & workflow digitalization.
+- ?? **Education:** B.Sc. Computer Science, Lagos State University (LASU).
+- ?? **Key Certifications:** Google Cybersecurity Professional Certificate, Google IT Support, Cisco Junior Cybersecurity Analyst & Network Technician paths.
 
 ---
 
-### 🚀 Featured Cybersecurity Projects
+### ?? Featured Cybersecurity Projects
 
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h4><a href="https://github.com/OpeyemiAB/SOC-Lab-Wazuh-Defense">🛡️ SOC Lab: Wazuh SIEM & Active Response Defense</a></h4>
+      <h4><a href="https://github.com/OpeyemiAB/SOC-Lab-Wazuh-Defense">??? SOC Lab: Wazuh SIEM & Active Response Defense</a></h4>
       <p>Architected a complete Security Operations Center environment featuring Wazuh Manager on Ubuntu Server, Windows 11 monitored endpoint, and Kali Linux attacker node.</p>
       <ul>
         <li><b>Sysmon Telemetry:</b> Custom XML rules capturing Event ID 1 (Process Creation) & Event ID 11 (File Drops).</li>
@@ -61,7 +62,7 @@ I specialize in bridging the gap between designing resilient network architectur
       </p>
     </td>
     <td width="50%" valign="top">
-      <h4><a href="https://github.com/OpeyemiAB/naija-cybershield">🌐 Go2Cyber Naija CyberShield</a></h4>
+      <h4><a href="https://github.com/OpeyemiAB/naija-cybershield">?? Go2Cyber Naija CyberShield</a></h4>
       <p>Public Cybersecurity Resource Hub & Interactive Bank Scam Simulator built for the GCAP Cohort 1 Capstone Project.</p>
       <ul>
         <li><b>Scam Simulation:</b> Interactive real-world financial scam and phishing vectors targeting local banking users.</li>
@@ -77,7 +78,7 @@ I specialize in bridging the gap between designing resilient network architectur
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h4><a href="https://github.com/OpeyemiAB/OpeyemiAB.github.io">💻 Live Interactive SOC Portfolio Website</a></h4>
+      <h4><a href="https://github.com/OpeyemiAB/OpeyemiAB.github.io">?? Live Interactive SOC Portfolio Website</a></h4>
       <p>Custom-engineered, high-performance portfolio showcasing lab writeups, credentials, and interactive galleries.</p>
       <ul>
         <li><b>Live Deployment:</b> Hosted on GitHub Pages at <a href="https://opeyemiab.github.io">opeyemiab.github.io</a>.</li>
@@ -91,7 +92,7 @@ I specialize in bridging the gap between designing resilient network architectur
       </p>
     </td>
     <td width="50%" valign="top">
-      <h4><a href="https://github.com/OpeyemiAB">📊 SIWES Document Tracking System (DBMS)</a></h4>
+      <h4><a href="https://github.com/OpeyemiAB">?? SIWES Document Tracking System (DBMS)</a></h4>
       <p>Relational database management solution engineered for the LASUED SIWES administrative unit.</p>
       <ul>
         <li><b>Architecture:</b> Normalized MySQL schema managing student logbooks, supervisor assignments, and submissions.</li>
@@ -109,12 +110,12 @@ I specialize in bridging the gap between designing resilient network architectur
 
 ---
 
-### 🛠️ Security Arsenal & Technical Stack
+### ??? Security Arsenal & Technical Stack
 
 <table width="100%">
   <tr>
     <td width="25%" valign="top">
-      <b>🔍 SIEM & EDR</b><br><br>
+      <b>?? SIEM & EDR</b><br><br>
       <img src="https://img.shields.io/badge/Wazuh_SIEM-002F43?style=flat-square&logo=wazuh&logoColor=white" /><br>
       <img src="https://img.shields.io/badge/Microsoft_Sysmon-0078D4?style=flat-square&logo=windows&logoColor=white" /><br>
       <img src="https://img.shields.io/badge/Splunk-000000?style=flat-square&logo=splunk&logoColor=white" /><br>
@@ -123,7 +124,7 @@ I specialize in bridging the gap between designing resilient network architectur
       <img src="https://img.shields.io/badge/TheHive_SOAR-F39C12?style=flat-square" />
     </td>
     <td width="25%" valign="top">
-      <b>🌐 Network Defense</b><br><br>
+      <b>?? Network Defense</b><br><br>
       <img src="https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white" /><br>
       <img src="https://img.shields.io/badge/Suricata_IDS-EF3B2D?style=flat-square&logo=suricata&logoColor=white" /><br>
       <img src="https://img.shields.io/badge/Cisco_Packet_Tracer-00B4D8?style=flat-square&logo=cisco&logoColor=white" /><br>
@@ -132,39 +133,49 @@ I specialize in bridging the gap between designing resilient network architectur
       <img src="https://img.shields.io/badge/Firewalls_%26_ACLs-E67E22?style=flat-square" />
     </td>
     <td width="25%" valign="top">
-      <b>🎯 Assessment & OS</b><br><br>
-      <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=flat-square&logo=kali-linux&logoColor=white" /><br>
-      <img src="https://img.shields.io/badge/Ubuntu_Server-E95420?style=flat-square&logo=ubuntu&logoColor=white" /><br>
-      <img src="https://img.shields.io/badge/Windows_10%2F11-0078D4?style=flat-square&logo=windows&logoColor=white" /><br>
-      <img src="https://img.shields.io/badge/Metasploit-1D2B3A?style=flat-square" /><br>
+      <b>?? Frameworks & Standards</b><br><br>
+      <img src="https://img.shields.io/badge/NIST_CSF-0B3C5D?style=flat-square" /><br>
+      <img src="https://img.shields.io/badge/ISO_27001-1D2731?style=flat-square" /><br>
+      <img src="https://img.shields.io/badge/MITRE_ATT%26CK-C0392B?style=flat-square" /><br>
       <img src="https://img.shields.io/badge/CIS_Benchmarks-27AE60?style=flat-square" /><br>
-      <img src="https://img.shields.io/badge/Oracle_VirtualBox-183A61?style=flat-square&logo=virtualbox&logoColor=white" />
+      <img src="https://img.shields.io/badge/Threat_Modeling-8E44AD?style=flat-square" /><br>
+      <img src="https://img.shields.io/badge/Incident_Response-E67E22?style=flat-square" />
     </td>
     <td width="25%" valign="top">
-      <b>⚙️ Automation & Scripting</b><br><br>
+      <b>?? Scripting & Systems</b><br><br>
       <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" /><br>
       <img src="https://img.shields.io/badge/Bash_Shell-4EAA25?style=flat-square&logo=gnubash&logoColor=white" /><br>
       <img src="https://img.shields.io/badge/PowerShell-5391FE?style=flat-square&logo=powershell&logoColor=white" /><br>
+      <img src="https://img.shields.io/badge/Linux%20%2F%20Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white" /><br>
       <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" /><br>
-      <img src="https://img.shields.io/badge/Git_%26_GitHub-F05032?style=flat-square&logo=git&logoColor=white" /><br>
-      <img src="https://img.shields.io/badge/REST_APIs-6C7A89?style=flat-square" />
+      <img src="https://img.shields.io/badge/Git_%26_GitHub-F05032?style=flat-square&logo=git&logoColor=white" />
     </td>
   </tr>
 </table>
 
 ---
 
-### 📜 Certifications & Credentials
+### ?? Leadership & Global Impact
 
-- 🥇 **Google Cybersecurity Professional Certificate** — Coursera (8-Course Specialization covering SIEM, Network Security, Python for OS, Incident Response)
-- 🌐 **Google Network Security** — Deep dive into firewalls, intrusion detection, packet filtering, and VPN configurations
-- 🛡️ **Cisco Junior Cybersecurity Analyst Career Path** — Endpoint Security, Cyber Threat Management, Network Defense
-- 🔌 **Computer Networks Fundamentals** — Udemy (OSI Model, Routing Protocols, Subnetting & IP Addressing)
-- 🎯 **Targeting Next:** CDSA (Certified Digital Forensics & Security Analyst) & CompTIA Network+
+- ?? **Millennium Fellow (Class of 2026)** ? **Millennium Campus Network (MCN) & United Nations Academic Impact (UNAI)**
+  *Selected for a prestigious global fellowship; leading student initiatives advancing digital access and ethical governance.*
+- ?? **Assistant Team Lead (Registration & Operations)** ? **Tech Wave LASU** (Nov 2026)
+  *Led check-in operations and delegate onboarding workflows for major conference attendees.*
 
 ---
 
-### 📈 GitHub Analytics
+### ?? Certifications & Credentials
+
+- ?? **Google Cybersecurity Professional Certificate** ? Coursera (8-Course Specialization covering SIEM, Network Security, Python for OS, Incident Response)
+- ?? **Google Network Security** ? Threat defense, firewall configuration, intrusion detection, packet filtering
+- ?? **Google IT Support Professional Specialization** ? System administration, hardware & OS debugging, networking
+- ??? **Cisco Junior Cybersecurity Analyst Career Path** ? Cisco Networking Academy
+- ?? **Cisco Network Technician Career Path** ? Cisco Networking Academy
+- ?? **Computer Networks Fundamentals** ? Udemy
+
+---
+
+### ?? GitHub Analytics
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=OpeyemiAB&show_icons=true&theme=tokyonight&hide_border=true&title_color=00F0FF&icon_color=00F0FF&text_color=94a3b8&bg_color=0d1117" alt="Benjamin's GitHub Stats" height="155" />
@@ -179,13 +190,13 @@ I specialize in bridging the gap between designing resilient network architectur
 
 <div align="center">
   <blockquote>
-    <i>"Dedicated to defending systems, analyzing anomalies, and stopping adversaries from the packet level up."</i>
+    <i>&ldquo;Dedicated to defending systems, analyzing anomalies, and stopping adversaries from the packet level up.&rdquo;</i>
   </blockquote>
 
   <p>
     <b>Let's connect:</b> 
-    <a href="https://www.linkedin.com/in/opeyemi-benjamin-99ba70250">LinkedIn</a> • 
-    <a href="https://opeyemiab.github.io">Live Portfolio</a> • 
+    <a href="https://www.linkedin.com/in/opeyemi-benjamin-99ba70250">LinkedIn</a> &bull; 
+    <a href="https://opeyemiab.github.io">Live Portfolio</a> &bull; 
     <a href="mailto:oluwafemibenjamin488@gmail.com">oluwafemibenjamin488@gmail.com</a>
   </p>
 </div>
